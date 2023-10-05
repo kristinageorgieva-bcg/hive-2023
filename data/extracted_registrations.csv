@@ -2,9 +2,8 @@ location,total_registered,total_doing_talk,destination,total_people,estimated_tr
 amsterdam,11,0,paris,15.0,570,False
 atlanta,2,1,dallas,3.0,480,False
 austin,3,1,dallas,6.0,560,False
-barcelona,7,0,barcelona,27.0,0,True
-bek,1,0,,,,
-bengaluru,23,2,bengaluru,140.0,0,True
+barcelona,8,0,barcelona,27.0,0,True
+bengaluru,24,2,bengaluru,140.0,0,True
 berlin,25,7,berlin,51.0,0,True
 berlin,25,7,milan,1.0,370,False
 berlin,25,7,munich,1.0,66,False
@@ -21,10 +20,11 @@ chicago,33,2,chicago,68.0,0,True
 cologne,4,0,berlin,5.0,420,False
 copenhagen,5,1,stockholm,9.0,310,False
 dallas,4,0,dallas,13.0,0,True
-denver,6,1,seattle,7.0,480,False
+delhi,1,0,,,,
+denver,7,2,seattle,7.0,480,False
 dusseldorf,8,0,frankfurt,12.0,420,False
 frankfurt,5,1,frankfurt,19.0,0,True
-gurugram,35,5,gurugram,169.0,0,True
+gurugram,36,5,gurugram,169.0,0,True
 helsinki,2,1,stockholm,3.0,310,False
 houston,3,1,dallas,7.0,560,False
 india,2,0,,,,
@@ -33,12 +33,8 @@ london,30,6,london,85.0,0,True
 london,30,6,barcelona,1.0,923,False
 london,30,6,zurich,1.0,430,False
 london,30,6,madrid,1.0,302,False
-madrid,23,2,madrid,54.0,0,True
-manhattan beach & la,9,4,manhattan beach,44.0,0,False
-manhattan beach & la,9,4,bogota,1.0,1665,False
-manhattan beach & la,9,4,santiago,1.0,6109,False
-manhattan beach & la,9,4,san francisco,1.0,160,False
-manhattan beach & la,9,4,seattle,1.0,451,False
+madrid,27,3,madrid,54.0,0,True
+manhattan beach & la,9,4,,,,
 melbourne,15,1,sydney,14.0,350,False
 miami,4,0,dallas,8.0,710,False
 milan,15,1,milan,23.0,0,True
@@ -48,37 +44,36 @@ munich,10,2,zurich,1.0,490,False
 munich,10,2,milan,1.0,425,False
 new delhi,4,0,gurugram,5.0,40,False
 new jersey,3,0,new york,3.0,50,False
-new york,25,2,new york,122.0,0,True
-new york,25,2,boston,1.0,400,False
-new york,25,2,toronto,1.0,235,False
-new york,25,2,sao paulo,1.0,4758,False
-new york,25,2,bogota,1.0,1620,False
-new york,25,2,washington dc,1.0,243,False
-nyc,1,0,,,,
+new york,26,2,new york,122.0,0,True
+new york,26,2,boston,1.0,400,False
+new york,26,2,toronto,1.0,235,False
+new york,26,2,sao paulo,1.0,4758,False
+new york,26,2,bogota,1.0,1620,False
+new york,26,2,washington dc,1.0,243,False
 oslo,4,0,stockholm,6.0,280,False
 paris,21,1,paris,93.0,0,True
 paris,21,1,barcelona,1.0,815,False
 perth,9,2,perth,17.0,0,True
 perth,9,2,sydney,1.0,2910,False
-pittsburgh,3,0,washington dc,10.0,701,False
+pittsburgh,4,0,washington dc,10.0,701,False
 rio de janeiro,3,0,sao paulo,5.0,190,False
+san deigo,1,0,,,,
 san francisco,17,3,san francisco,33.0,0,True
 santiago,11,0,santiago,13.0,0,True
 sao paulo,24,1,sao paulo,36.0,0,True
 sao paulo,24,1,santiago,1.0,531,False
-sdasd,1,1,,,,
 seattle,10,1,seattle,29.0,0,True
 seoul,4,1,tokyo,3.0,530,False
 shanghai,1,1,shanghai,13.0,0,True
 shenzhen,4,1,shanghai,8.0,720,False
 silicon valley,1,0,san francisco,6.0,20,False
-singapore,22,4,singapore,33.0,0,True
-singapore,22,4,gurugram,1.0,1960,False
-singapore,22,4,tokyo,1.0,3375,False
+singapore,24,5,singapore,33.0,0,True
+singapore,24,5,gurugram,1.0,1960,False
+singapore,24,5,tokyo,1.0,3375,False
 stockholm,8,0,stockholm,20.0,0,True
 sydney,15,4,sydney,29.0,0,True
 sydney,15,4,perth,1.0,2673,False
-tokyo,6,1,tokyo,43.0,0,True
+tokyo,7,1,tokyo,43.0,0,True
 toronto,10,0,toronto,26.0,0,True
 vienna,1,0,munich,3.0,600,False
 warsaw,5,0,berlin,14.0,510,False

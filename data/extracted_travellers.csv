@@ -1,0 +1,100 @@
+,name,role,lob,location,destination,estimated_travel_plus_perc,doing-talk-clean,reason_for_travel
+0,Eivind Strøm,Data Scientist,X AI & Software,oslo,stockholm,364.0,,small office
+3,Marion Nöske,Senior Director Data & Analytics - X Delivery,X Delivery,dusseldorf,frankfurt,546.0,,small office
+5,Michael Logen,Data & Analytics Lead,X Delivery,dusseldorf,frankfurt,546.0,,small office
+19,Martin Schleicher,Data & Analytics Lead – X Delivery,X Delivery,dusseldorf,frankfurt,546.0,,small office
+24,Otto Saikkonen,Senior Data Scientist,X AI & Software,helsinki,stockholm,403.0,,small office
+31,Dante Cicco,Senior Engineer,X AI & Software,pittsburgh,washington dc,911.3000000000001,,small office
+35,Jo Saakvitne,Lead Data Scientist,X AI & Software,oslo,stockholm,364.0,,small office
+39,Petter Moen,Senior Data Scientist,X AI & Software,oslo,stockholm,364.0,,small office
+42,Valentina Jarovaja,Data & Analytics Lead,X Delivery,dusseldorf,frankfurt,546.0,,small office
+85,Shobhit Mittal,Data Scientist,X AI & Software,new delhi,gurugram,52.0,,small office
+88,Daniel Chernowitz,Senior Data Scientist,X AI & Software,amsterdam,paris,741.0,,small office
+99,Matt Birch,LDS,X AI & Software,melbourne,sydney,455.0,,small office
+118,chernowitz daniel,Senior Data Scientist,X AI & Software,amsterdam,paris,741.0,,small office
+119,Sarah Nadaud,Data Scientist,X AI & Software,rio de janeiro,sao paulo,247.0,,small office
+122,Santhosh Ganesh,Lead Engineer,X AI & Software,atlanta,dallas,624.0,1.0,small office
+137,RITIN KHANGAROT,Partner & AD,X AI & Software,austin,dallas,728.0,,small office
+139,James Calvert,Senior Data Scientist,X AI & Software,melbourne,sydney,455.0,,small office
+141,Ben Ong,Data scientist,X AI & Software,melbourne,sydney,455.0,,small office
+142,Joy Horng,Data scientist,X AI & Software,melbourne,sydney,455.0,,small office
+148,Vivek Kant,Partner & VP - Engineering,X AI & Software,mumbai,bengaluru,312.0,,small office
+156,Loic Vanderkelen,Data scientist,X AI & Software,brussels,london,1066.0,,small office
+157,Johan Buch-Hansen,Senior Data Scientist,X AI & Software,copenhagen,stockholm,403.0,,small office
+158,Timm Walz,AI Engineer,X AI & Software,copenhagen,stockholm,403.0,,small office
+159,Luca Cambiaghi,Data Scientist,X AI & Software,copenhagen,stockholm,403.0,,small office
+171,Jeffrey Senn,VP Engineering,X AI & Software,pittsburgh,washington dc,911.3000000000001,,small office
+182,Alex Llobet Martinez-Pons,GenAI,X AI & Software,brussels,london,1066.0,,small office
+183,Nicholas Hanoian,Data Scientist,X AI & Software,denver,seattle,624.0,,small office
+184,Billy Cruz,BCG X Principal Engineer,X AI & Software,miami,dallas,923.0,,small office
+194,Anthony Wang,Senior Data Scientist,X AI & Software,cologne,berlin,546.0,,small office
+200,Armand Margerin,Data Scientist,X AI & Software,brussels,london,1066.0,,small office
+210,Jannick Seelen,Senior AI Engineering,X AI & Software,vienna,munich,780.0,,small office
+212,joohye lim,Senior Data Scientist,X AI & Software,seoul,tokyo,689.0,,small office
+213,Seongbong Kim,Principal-Data Science,X AI & Software,seoul,tokyo,689.0,1.0,small office
+214,Wonhee Lee,Sr. Data Scientist,X AI & Software,seoul,tokyo,689.0,,small office
+215,Abdrakhmanova Nelly,Data Scientist,X AI & Software,helsinki,stockholm,403.0,1.0,small office
+222,Abhay Vatsa,Senior Engineer,X Ventures,austin,dallas,728.0,1.0,small office
+223,Rasmus Bjoern,SDS,X AI & Software,copenhagen,stockholm,403.0,,small office
+226,Max Snijders,LDS,X AI & Software,amsterdam,paris,741.0,,small office
+227,Mathijs de Jong,Data Scientist,X AI & Software,amsterdam,paris,741.0,,small office
+228,Reinier de Bruin,Data Scientist,X AI & Software,amsterdam,paris,741.0,,small office
+229,Estelle Altazin,Lead Data Scientist,X AI & Software,amsterdam,paris,741.0,,small office
+230,Daniel de Araujo Pereira,Senior Data Scientist,X AI & Software,amsterdam,paris,741.0,,small office
+233,Carel Schwartzenberg,Data Scientist,X AI & Software,amsterdam,paris,741.0,,small office
+237,Theresa Gattermann-Itschert,Senior Data Scientist,X AI & Software,cologne,berlin,546.0,,small office
+240,David Erdreich,Senior Data Engineering Manager,X Delivery,new jersey,new york,65.0,,small office
+244,Purnima Aggarwal,Lead data analyst,X Delivery,new delhi,gurugram,52.0,,small office
+249,Amar Patel,Product Management Director,X Delivery,austin,dallas,728.0,,small office
+264,Pim Hoeven,Senior Data Scientist,X AI & Software,amsterdam,paris,741.0,,small office
+272,Brian Norris,Lead engineer,X AI & Software,miami,dallas,923.0,,small office
+276,Roman Soldatenkov,"Senior Software Engineer, DevOps",X Delivery,warsaw,berlin,663.0,,small office
+305,Andrew Jarratt,Principal Engineer,X AI & Software,denver,seattle,624.0,,small office
+309,Wan Chao,Senior Software Engineer,X Delivery,shenzhen,shanghai,936.0,,small office
+320,Myles Onosko,Senior Engineer,X AI & Software,brooklyn,new york,13.0,,small office
+321,Aparajita Sengupta,Senior Software Engineer,X Delivery,brooklyn,new york,13.0,,small office
+326,Benjamin Stevenson,Senior Solution Business Director,X Delivery,copenhagen,stockholm,403.0,1.0,small office
+331,Torben Deuker,Lead Analyst,X Delivery,dusseldorf,frankfurt,546.0,,small office
+332,Jonas Arenz,Analyst,X Delivery,dusseldorf,frankfurt,546.0,,small office
+345,Dian,Data Scientist,X AI & Software,houston,dallas,728.0,1.0,small office
+346,Calvin Schmidt,Senior Data Scientist,X AI & Software,houston,dallas,728.0,,small office
+408,Maria Diniz,Software Engineer,X Delivery,rio de janeiro,sao paulo,247.0,,small office
+410,Soumyodeep Mukherjee,Lead Engineer,X AI & Software,new jersey,new york,65.0,,small office
+415,Jing Ke,Lead data scientist,X AI & Software,silicon valley,san francisco,26.0,,small office
+416,Saurabh Mahajan,AI Engineer,X AI & Software,denver,seattle,624.0,,small office
+421,Patrick Mueller2,Principle DataScience,X AI & Software,cologne,berlin,546.0,,small office
+423,Julian Bell,Analyst,X Delivery,dusseldorf,frankfurt,546.0,,small office
+436,Michael Yang,Data Scientist,X AI & Software,johannesburg,paris,2717.0,,small office
+437,Darryn Williams,Senior data scientist,X AI & Software,johannesburg,paris,2717.0,,small office
+439,Michael Brent,Solutions Delivery Senior Manager,X Delivery,denver,seattle,624.0,1.0,small office
+443,Brian Norris,Lead Engineer,X AI & Software,miami,dallas,923.0,,small office
+454,Ben ong,Data scientist,X AI & Software,melbourne,sydney,455.0,,small office
+468,Yitping kok,Engineer,X AI & Software,melbourne,sydney,455.0,,small office
+470,Max Wang,LDS,X AI & Software,melbourne,sydney,455.0,,small office
+471,Ricardo D'Amico,Senior Data Scientist,X AI & Software,melbourne,sydney,455.0,,small office
+476,Sarah Belet,Data Scientist,X AI & Software,melbourne,sydney,455.0,,small office
+478,Siqi Yuan,Data Scientist,X AI & Software,amsterdam,paris,741.0,,small office
+479,Przemyslaw Morski,Lead Data Scientist,X AI & Software,warsaw,berlin,663.0,,small office
+487,Magdalena Krupa,Lead Data Scientist,X AI & Software,warsaw,berlin,663.0,,small office
+503,Ankit Mishra,Software Engineer,X Delivery,new delhi,gurugram,52.0,,small office
+524,Halvor Reiten,Data Scientist,X AI & Software,oslo,stockholm,364.0,,small office
+537,Lydia Yu,AI Engineer,X AI & Software,brooklyn,new york,13.0,,small office
+539,Bruno Mühlmann Holanda,Data Scientist,X AI & Software,rio de janeiro,sao paulo,247.0,,small office
+540,Yitping Kok,Engineer,X AI & Software,melbourne,sydney,455.0,,small office
+547,Tom Sandeman,Principal,X AI & Software,melbourne,sydney,455.0,1.0,small office
+552,Heidi He,Data Scientist,X AI & Software,melbourne,sydney,455.0,,small office
+570,Michael Boselowitz,Principle Software Design Engineer,X AI & Software,pittsburgh,washington dc,911.3000000000001,,small office
+574,Lee Yeonkyung,Senior data scientist,X AI & Software,seoul,tokyo,689.0,,small office
+583,Stuart Roth,Engineering Principle,X AI & Software,pittsburgh,washington dc,911.3000000000001,,small office
+589,Amanda Aschenbrenner,Principal - Engineering,X AI & Software,denver,seattle,624.0,1.0,small office
+638298890718873054,Amine Benaddi,Engineering Lead,X Delivery,casablanca,paris,630,1.0,represent X Delivery in office with gap
+638307984685797820,Panagiota Papakosta,Senior Analyst,X Delivery,munich,milan,600,1.0,represent X Delivery in office with gap
+638309418719094351,Jason He,Senior Delivery Analyst,X Delivery,shenzhen,tokyo,2400,1.0,represent X Delivery in office with gap
+638312379032342134,Oliver Hof,Technical Delivery Sr. Manager,X Delivery,warsaw,zurich,450,,represent X Delivery in office with gap
+638315943002284580,Sukrit Kurle,Data Engineering Lead,X Delivery,bengaluru,singapore,2700,,represent X Delivery in office with gap
+638315943121595054,Deepak Trehan,Data & Analytics Director,X Delivery,boston,washington dc,600,1.0,represent X Delivery in office with gap
+638316005914858606,David Hoyos,Data Analytics Lead,X Delivery,bogota,santiago,11400,,represent X Delivery in office with gap
+638301182426033496,Robin Weston,Principal,X Ventures,singapore,shanghai,1260,1.0,represent X Ventures in office with gap
+638315196919892165,Sebastian Geidies,"Partner & Vice President, Engineering",X Ventures,berlin,munich,496,,represent X Ventures in office with gap
+638315201269934155,Astera Schneeweisz,VP of Engineering,X Ventures,berlin,frankfurt,390,,represent X Ventures in office with gap
+638315258771559218,Constantine Karlis,Lead Engineer,X Ventures,berlin,stockholm,350,1.0,represent X Ventures in office with gap
